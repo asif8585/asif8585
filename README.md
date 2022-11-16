@@ -9,7 +9,7 @@ https://cdn-images-1.medium.com/fit/t/1600/480/1*vkfI4nFNheC5v0p7wzDtGg.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asif8585&label=Profile%20views&color=0e75b6&style=flat" alt="asif8585" /> </p>
 
-- 🔭 I’m currently working on [redi_pe_prototype](https://github.com/asif8585/redi_pe_prototype.git)
+
 
 - 🌱 I’m currently learning **Flutter**
 
