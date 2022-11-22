@@ -9,7 +9,7 @@ https://cdn-images-1.medium.com/fit/t/1600/480/1*vkfI4nFNheC5v0p7wzDtGg.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asif8585&label=Profile%20views&color=0e75b6&style=flat" alt="asif8585" /> </p>
 
-
+- 🔭 I’m currently working on [my_grocery_app](https://github.com/asif8585/my_grocery_app)
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -17,7 +17,7 @@ https://cdn-images-1.medium.com/fit/t/1600/480/1*vkfI4nFNheC5v0p7wzDtGg.gif
 
 - 📫 How to reach me **asifkhan858591@gmail.com**
 
-- ⚡ Fun fact **I am talkative**
+- ⚡ Fun fact **I Think I Am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
