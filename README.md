@@ -17,7 +17,7 @@ https://cdn-images-1.medium.com/fit/t/1600/480/1*vkfI4nFNheC5v0p7wzDtGg.gif
 
 - 📫 How to reach me **asifkhan858591@gmail.com**
 
-- ⚡ Fun fact **The most embarrassing thing that ever happened to me at work was i forgot to lock the door of washroom and after some time a girl opened it.Thank god i was washing my face.**
+- ⚡ Fun fact **I am talkative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
